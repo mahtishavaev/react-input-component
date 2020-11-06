@@ -81,7 +81,8 @@ function App() {
             helperText='some text' 
             startIcon='done' 
             endIcon='feedback'
-            placeholder='custom placeholder'
+            placeholder='custom placeholder'            
+            labelText='custom label'
             size='sm'
             fullWidth /&gt;
           </div>
@@ -91,6 +92,7 @@ function App() {
             startIcon='done' 
             endIcon='feedback'
             placeholder='custom placeholder'
+            labelText='custom label'
             size='sm'
             fullWidth
           />
